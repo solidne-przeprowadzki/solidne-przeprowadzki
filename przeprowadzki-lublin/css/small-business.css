@@ -86,11 +86,19 @@ h2,h3{
   margin-bottom: 10px;
 }
 
+.masthead{
+  margin-top: 90px;
+  margin-bottom: 50px;
+
+}
+
 .card-title{
   font-size: 1.4rem;
   color:red;
   font-weight: 600;
 }
+
+
 
 .card-body {
   -ms-flex: 1 1 auto;
