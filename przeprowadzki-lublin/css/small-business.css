@@ -193,7 +193,7 @@ h1{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 60vh;
     margin-bottom: 5px;
   }
   h1{
@@ -207,7 +207,7 @@ h1{
     font-size: 1.5rem;
   }
   .masthead{
-    margin-top: 80px;
+    margin-top: 300px;
     margin-bottom: 50px;
   }
 }
