@@ -83,17 +83,17 @@ h2,h3{
   background-repeat: no-repeat;
   background-size: cover;
   height: 40vh;
-  margin-bottom: 10px;
+  margin-bottom: 1rem;
 }
 
 .masthead{
-  margin-top: 100px;
+  margin-top: 120px;
   margin-bottom: 50px;
 
 }
 
 .card-title{
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   color:#154995;
   font-weight: 600;
 }
@@ -116,7 +116,7 @@ h1{
  }
  
  h3{
-   font-size: 1.2rem;
+   font-size: 1.3rem;
  }
  
  .lead{ font-size: 1rem;}
@@ -175,7 +175,7 @@ h1{
 
   
   .masthead{
-    margin-top: 100px;
+    margin-top: 120px;
     margin-bottom: 50px;
   
   }
