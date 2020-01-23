@@ -13,31 +13,25 @@
 .navbar-brand{
   font-family: 'Lobster', cursive;
 }
-
 section{
   padding-left: 1rem;
   padding-right: 1rem;
   padding-top: 4.5rem;
   padding-bottom: 1rem;
 }
-
 footer{
 background-color: #f2ece0;
 color: #BAB4AB;
 }
-
 .bg-blue{
   background-color: #154995;
 }
-
 .bg-secondary{
 background-color: #BAB4AB;
 }
-
 .text-secondary{
   color: #bab4ab;
 }
-
 .btn-primary {
   color: #fff;
   background-color: #ff8800;
@@ -60,18 +54,13 @@ background-color: #BAB4AB;
     .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
     .show > .btn-primary.dropdown-toggle:focus {
       box-shadow: 0 0 0 0.2rem rgba(255, 136, 0, 0.5); }
-
 h1{
   font-family: 'Lobster', cursive;
   text-shadow: 1.6px 1.6px 1.6px #000;
 }
-
 h2,h3{
   color:#154995 ;
 }
-
-
-
 .masthead-text{
   text-shadow: 1.7px 1.7px 1.7px #000;
 }
@@ -85,78 +74,58 @@ h2,h3{
   height: 40vh;
   margin-bottom: 1rem;
 }
-
 .masthead{
   margin-top: 120px;
   margin-bottom: 50px;
-
 }
-
 .card-title{
   font-size: 1.2rem;
   color:#154995;
   font-weight: 600;
 }
-
-
-
 .card-body {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   padding: 0.8rem;
 }
-
 h1{
   font-size: 2.1rem;
-  
  }
- 
  h2{
    font-size: 1.4rem;
  }
- 
  h3{
    font-size: 1.3rem;
  }
- 
- .lead{ font-size: 1rem;}
-
-
+ .lead{ font-size: 1rem;
+}
 @media (min-width: 375px) {
-
   .card-title{
     font-size: 1.4rem;
     color:#154995;
     font-weight: 600;
   }
-  
   .card-footer {
     padding: .50rem 1rem;
     background-color: rgba(0,0,0,.03);
     border-top: 1px solid rgba(0,0,0,.125);
   }
-  
   .card-body {
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
     padding: 1rem;
   }
-  
   h1{
    font-size: 2.2rem;
-   
   }
-  
   h2{
     font-size: 1.5rem;
   }
-  
   h3{
     font-size: 1.4rem;
   }
-  
-  .lead{ font-size: 1.1rem;}
-  
+  .lead{ font-size: 1.1rem;
+  }
   .jumbotron {
     color: white;
     background-image: url("../img/przeprowadzki-lublin-desktop.jpg");
@@ -166,26 +135,12 @@ h1{
     height: 50vh;
     margin-bottom: 1rem;
   }
-
-  
   .masthead{
-    margin-top: 130px;
+    margin-top: 150px;
     margin-bottom: 50px;
   
   }
-
-
-
 }
-
-
-
-/* 
-Extra small devices (portrait phones, less than 576px) 
-No media query since this is the default in Bootstrap because it is "mobile first"
-*/
-
-/* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {  
   .masthead{
     margin-top: 70px;
@@ -204,8 +159,6 @@ No media query since this is the default in Bootstrap because it is "mobile firs
     margin-bottom: 10px;
   }
 }
- 
-/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
 @media (min-width: 768px) {  
   .jumbotron {
     color: white;
@@ -223,8 +176,6 @@ No media query since this is the default in Bootstrap because it is "mobile firs
     font-size: 1.3rem;
     color: #154995;
   }
-   
-
    .lead{
     font-size: 1.3rem;
   }
@@ -233,8 +184,6 @@ No media query since this is the default in Bootstrap because it is "mobile firs
     margin-bottom: 50px;
   }
 }
- 
-/* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
   .jumbotron {
     color: white;
@@ -248,12 +197,10 @@ No media query since this is the default in Bootstrap because it is "mobile firs
   h1{
     font-size: 3rem;
    }
-
    .card-title{
     font-size: 1.4rem;
     color:#154995
   }
-
    .lead{
     font-size: 1.5rem;
   }
@@ -262,7 +209,6 @@ No media query since this is the default in Bootstrap because it is "mobile firs
     margin-bottom: 50px;
   }
 }
-/* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {  
   .jumbotron {
     color: white;
@@ -273,23 +219,18 @@ No media query since this is the default in Bootstrap because it is "mobile firs
     height: 100vh;
     margin-bottom: 10px;
   }
-
   h1{
     font-size: 4.1rem;
    }
-
    h2{
     font-size: 2rem;
   }
-
   h3{
     font-size: 1.7rem;
   }
-
   .lead{
     font-size: 1.4rem;
   }
-
   .card-title{
     font-size: 1.4rem;
     color:#154995
@@ -297,8 +238,7 @@ No media query since this is the default in Bootstrap because it is "mobile firs
    .masthead{
     margin-top: 0px;
     margin-bottom: 150px;
-  }
-    
+  }   
 }
 
 
