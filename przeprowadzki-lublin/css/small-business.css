@@ -134,12 +134,12 @@ h1{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 50vh;
+    height: 45vh;
     margin-bottom: 1rem;
   }
   .masthead{
-    margin-top: 190px;
-    margin-bottom: 100px;
+    margin-top: 200px;
+    margin-bottom: 80px;
   
   }
 }
