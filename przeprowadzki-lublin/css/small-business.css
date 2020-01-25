@@ -149,7 +149,7 @@ h1{
 }
 @media (min-width: 576px) {  
   .masthead{
-    margin-top: 10vh;
+    margin-top: 5vh;
  
   }
   h1{
@@ -157,7 +157,7 @@ h1{
    }
 
    .lead{
-    font-size: 1.3rem;
+    font-size: 1.1rem;
   }
   .jumbotron {
     color: white;
@@ -187,10 +187,10 @@ h1{
     color: #154995;
   }
    .lead{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
   .masthead{
-    margin-top: 15vh;
+    margin-top: 10vh;
   }
 }
 @media (min-width: 992px) { 
