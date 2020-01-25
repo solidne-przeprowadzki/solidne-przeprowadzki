@@ -61,8 +61,13 @@ h1{
 h2,h3{
   color:#154995 ;
 }
+
 .masthead-text{
   text-shadow: 1.7px 1.7px 1.7px #000;
+}
+
+.navbar-brand{
+  font-family: 'Lobster', cursive;
 }
 
 .jumbotron {
