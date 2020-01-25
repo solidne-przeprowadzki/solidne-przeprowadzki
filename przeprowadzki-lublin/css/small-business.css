@@ -149,7 +149,7 @@ h1{
 }
 @media (min-width: 576px) {  
   .masthead{
-    margin-top: 30vh;
+    margin-top: 10vh;
  
   }
   h1{
@@ -190,7 +190,7 @@ h1{
     font-size: 1.3rem;
   }
   .masthead{
-    margin-top: 30vh;
+    margin-top: 15vh;
   }
 }
 @media (min-width: 992px) { 
