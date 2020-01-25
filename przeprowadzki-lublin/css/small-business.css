@@ -149,7 +149,7 @@ h1{
 }
 @media (min-width: 576px) {  
   .masthead{
-    margin-top: 5vh;
+    margin-top: 3vh;
  
   }
   h1{
@@ -190,7 +190,7 @@ h1{
     font-size: 1.2rem;
   }
   .masthead{
-    margin-top: 10vh;
+    margin-top: 5vh;
   }
 }
 @media (min-width: 992px) { 
@@ -211,11 +211,11 @@ h1{
     color:#154995
   }
    .lead{
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
   .masthead{
-    margin-top: 300px;
-    margin-bottom: 50px;
+    margin-top: 8vh;
+    
   }
 }
 @media (min-width: 1200px) {  
