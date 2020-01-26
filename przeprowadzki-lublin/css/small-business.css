@@ -150,7 +150,7 @@ h1{
 }
 @media (min-width: 576px) {  
   .masthead{
-    margin-top: 50vh;
+    margin-top: 90vh;
  
   }
   h1{
@@ -191,7 +191,7 @@ h1{
     font-size: 1.2rem;
   }
   .masthead{
-    margin-top: 5vh;
+    margin-top: 80vh;
   }
 }
 @media (min-width: 992px) { 
