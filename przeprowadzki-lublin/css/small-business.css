@@ -78,7 +78,7 @@ h2,h3{
   background-repeat: no-repeat;
   background-size: cover;
   height: 40vh;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 .masthead{
   margin-top: 20vh;
@@ -140,7 +140,7 @@ h1{
     background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
   }
   .masthead{
     margin-top: 30vh;
