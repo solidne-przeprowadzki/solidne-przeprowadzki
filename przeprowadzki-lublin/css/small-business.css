@@ -177,18 +177,18 @@ h1{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 110vh;
+    height: 100vh;
     margin-bottom: 5px;
   }
   h1{
-    font-size: 2.5rem;
+    font-size: 2.4rem;
    }
    .card-title {
     font-size: 1.3rem;
     color: #154995;
   }
    .lead{
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
   .masthead{
     margin-top: 0vh;
