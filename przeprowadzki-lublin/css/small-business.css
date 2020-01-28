@@ -191,7 +191,7 @@ h1{
     font-size: 1.2rem;
   }
   .masthead{
-    margin-top: 10vh;
+    margin-top: 0vh;
   }
 }
 @media (min-width: 992px) { 
