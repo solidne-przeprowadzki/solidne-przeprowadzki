@@ -150,11 +150,11 @@ h1{
 }
 @media (min-width: 576px) {  
   .masthead{
-    margin-top: 5vh;
+    margin-top: 0vh;
  
   }
   h1{
-    font-size: 2.8rem;
+    font-size: 2.5rem;
    }
 
    .lead{
